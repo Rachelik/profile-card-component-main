@@ -265,14 +265,14 @@ main {
 .bg-pattern-top {
     width: 1080px;
     position: absolute;
-    top: -468px;
+    top: -588px;
     left: -380px;
 }
 
 .bg-pattern-bottom {
     width: 1080px;
     position: absolute;
-    bottom: -614px;
+    bottom: -730px;
     right: -308px;
 }
 
@@ -283,19 +283,19 @@ main {
     body {
         position: relative;
     }
-    
+
     .bg-pattern-top {
-        width: 580px;
+        width: 667px;
         position: absolute;
-        top: -240px;
-        left: -288px;
+        top: -410px;
+        left: -430px;
     }
     
     .bg-pattern-bottom {
-        width: 580px;
+        width: 667px;
         position: absolute;
-        bottom: -163px;
-        right: -320px;
+        bottom: -350px;
+        right: -450px;
     }
     
     .card {
